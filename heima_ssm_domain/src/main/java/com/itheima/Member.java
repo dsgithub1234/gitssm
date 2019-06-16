@@ -8,6 +8,7 @@ public class Member {
     private String email;
 
     public String getId() {
+        //ɱɱɱ
         return id;
     }
 
